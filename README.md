@@ -1,3 +1,3 @@
 # a-simple-and-beautiful-spiral-with-turtle-module-in-Python
 a simple and beautiful spiral with turtle module in Python
-![github-octocat](https://github.com/dotLK/a-simple-and-beautiful-spiral-with-turtle-module-in-Python/edit/main/a simple and beautiful spiral with turtle module in Python.jpg)
+![github-octocat](https://github.com/dotLK/a-simple-and-beautiful-spiral-with-turtle-module-in-Python/edit/main/a.jpg)
